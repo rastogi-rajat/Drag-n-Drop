@@ -18,7 +18,7 @@ body {
 .Col {
     margin:2px;
     flex: 1;
-    border: 2px solid black;
+    border: 2px solid red;
     box-sizing: border-box;
     display: inline-block;
     min-height: 100px;
